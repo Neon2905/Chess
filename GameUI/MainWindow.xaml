@@ -23,7 +23,7 @@
                          Rows="8"
                          Columns="8"/>
 
-            <UniformGrid x:Name="BoardGrid"
+            <UniformGrid x:Name="BoardGrid"                         
                          Rows="8"
                          Columns="8"
                          RenderOptions.BitmapScalingMode="HighQuality"/>

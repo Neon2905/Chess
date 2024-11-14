@@ -114,10 +114,7 @@
           "NAudio": "2.2.1"
         },
         "runtime": {
-          "GameLogic.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "GameLogic.dll": {}
         }
       }
     }

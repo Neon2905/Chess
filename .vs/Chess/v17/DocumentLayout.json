@@ -1,38 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\C#_Games\\Chess\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|h:\\c#_games\\chess\\gamelogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|solutionrelative:gamelogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|h:\\c#_games\\chess\\gameui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\chess\\gameui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|solutionrelative:gameui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|h:\\c#_games\\chess\\gamelogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|solutionrelative:gamelogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|h:\\c#_games\\chess\\gamelogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|solutionrelative:gamelogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|h:\\c#_games\\chess\\gameui\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|solutionrelative:gameui\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|h:\\c#_games\\chess\\gameui\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|solutionrelative:gameui\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|h:\\c#_games\\chess\\gameui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|solutionrelative:gameui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|h:\\c#_games\\chess\\gameui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\chess\\gameui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{343E21CA-6964-42EC-BB7C-42FF22470EBE}|GameUI\\GameUI.csproj|solutionrelative:gameui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|c:\\users\\lenovo\\onedrive\\desktop\\chess\\gamelogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807305F5-B49E-4602-ACAD-EFF8B2992DDA}|GameLogic\\GameLogic.csproj|solutionrelative:gamelogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,101 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameUI\\App.xaml",
-              "RelativeDocumentMoniker": "GameUI\\App.xaml",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameUI\\App.xaml",
-              "RelativeToolTip": "GameUI\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T11:23:00.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sound.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameUI\\Sound.cs",
-              "RelativeDocumentMoniker": "GameUI\\Sound.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameUI\\Sound.cs",
-              "RelativeToolTip": "GameUI\\Sound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameLogic\\GameState.cs",
+              "RelativeDocumentMoniker": "GameLogic\\GameState.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameLogic\\GameState.cs",
+              "RelativeToolTip": "GameLogic\\GameState.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwC0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:11:30.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "GameUI\\MainWindow.xaml",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameUI\\MainWindow.xaml",
-              "RelativeToolTip": "GameUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T10:00:16.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SoundEffect.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameUI\\SoundEffect.cs",
-              "RelativeDocumentMoniker": "GameUI\\SoundEffect.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameUI\\SoundEffect.cs",
-              "RelativeToolTip": "GameUI\\SoundEffect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:38:33.101Z",
+              "WhenOpened": "2024-11-14T08:14:16.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "GameUI\\MainWindow.xaml.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "GameUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAwwOQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:38:08.35Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GameUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameUI\\MainWindow.xaml",
+              "RelativeToolTip": "GameUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T07:56:13.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Move.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameLogic\\Moves\\Move.cs",
-              "RelativeDocumentMoniker": "GameLogic\\Moves\\Move.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameLogic\\Moves\\Move.cs",
-              "RelativeToolTip": "GameLogic\\Moves\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Chess\\GameUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GameUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:33:33.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NormalMove.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameLogic\\Moves\\NormalMove.cs",
-              "RelativeDocumentMoniker": "GameLogic\\Moves\\NormalMove.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameLogic\\Moves\\NormalMove.cs",
-              "RelativeToolTip": "GameLogic\\Moves\\NormalMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:33:35.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "H:\\C#_Games\\Chess\\GameLogic\\GameState.cs",
-              "RelativeDocumentMoniker": "GameLogic\\GameState.cs",
-              "ToolTip": "H:\\C#_Games\\Chess\\GameLogic\\GameState.cs",
-              "RelativeToolTip": "GameLogic\\GameState.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:34:43.92Z",
+              "WhenOpened": "2024-10-03T09:38:08.35Z",
               "EditorCaption": ""
             }
           ]

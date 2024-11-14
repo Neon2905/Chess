@@ -8,6 +8,7 @@
         public Result Result { get; private set; } = null;
         public bool IsGameOver => Result != null;
         public Position CurrentKingPosition => Board.KingPosition(CurrentPlayer);
+        public event Action SwitchTurn;
 
         private int noCaptureMoves = 0;
         private bool IsFiftyMoveRule => (noCaptureMoves / 2) == 50;
@@ -50,6 +51,9 @@
             CurrentPlayer = CurrentPlayer.Opponent();
             UpdateStateString();
             CheckForGameOver();
+
+            if (!IsGameOver)
+                SwitchTurn?.Invoke();
         }
 
         public IEnumerable<Move> AllLegalMovesFor(Player player)

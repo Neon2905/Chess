@@ -4,6 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Shapes;
 using GameLogic;
 using System.Windows.Input;
+using System.Windows.Controls.Primitives;
 
 namespace GameUI
 {
@@ -18,6 +19,7 @@ namespace GameUI
 
         private GameState gameState;
         private Position selectedPosition = null;
+        private bool HasBoardTurned;
 
         private bool IsOnMenuScreen => MenuContnainer.Content != null;
 
@@ -27,6 +29,7 @@ namespace GameUI
             InitializeBoard();
 
             gameState = new GameState(Player.White, Board.Initial());
+            gameState.SwitchTurn += RotateBoard;
             DrawBoard(gameState.Board);
             SetCursor(gameState.CurrentPlayer);
         }
@@ -48,13 +51,28 @@ namespace GameUI
         }
 
         private void DrawBoard(Board board)
-        {
+        {            
             foreach (var row in Enumerable.Range(0, 8))
                 foreach (var col in Enumerable.Range(0, 8))
                     Application.Current.Dispatcher.Invoke(() =>
                     {
                         pieceImages[row, col].Source = Images.GetImage(board[row, col]);
                     });
+        }
+
+        //Still to be develop
+        private void RotateBoard()
+        {
+            RotateTransform rotateTransform = new (HasBoardTurned ? -180 : 180, BorderGrid.Width / 2, BorderGrid.Height / 2);
+
+            BoardGrid.RenderTransform = rotateTransform;
+            HighlightGrid.RenderTransform = rotateTransform;
+
+            foreach (var pieceImage in pieceImages)
+            {
+                pieceImage.RenderTransform = new RotateTransform(HasBoardTurned ? -180 : 180, pieceImage.ActualWidth / 2, pieceImage.ActualHeight / 2);
+            }
+            HasBoardTurned = !HasBoardTurned;
         }
 
         private void CacheMoves(IEnumerable<Move > moves)
