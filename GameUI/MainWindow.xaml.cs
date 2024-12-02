@@ -29,7 +29,7 @@ namespace GameUI
             InitializeBoard();
 
             gameState = new GameState(Player.White, Board.Initial());
-            gameState.SwitchTurn += RotateBoard;
+            //gameState.SwitchTurn += RotateBoard;
             DrawBoard(gameState.Board);
             SetCursor(gameState.CurrentPlayer);
         }
